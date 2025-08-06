@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/usuario/Desktop/temp/testeGit/BackEnd2025",
+      "program": "/Users/usuario/Desktop/temp/testeGit/BackEnd2025/build/Debug/outDebug"
+    }
+  ]
+}
